@@ -458,12 +458,5 @@ Unlike traditional reputation systems, Pulse measures **real ecosystem impact** 
 
 ## Why this idea stands out
 
-Compared to the examples you shared:
-
-* **Kin** focuses on mutual trust links and identity.
-* **Canopy Social-Fi** focuses on interaction-based reputation.
-* **DevReputation** focuses on developer credentials and endorsements.
-* **Canopy Counter** focuses on DeFi and trading.
-
 **Canopy Pulse** is broader: it creates a reusable **community intelligence layer** that combines contributions, mentoring, trust, activity, reputation decay, achievements, and a live influence graph into a single infrastructure service that any future Canopy application can query. It complements rather than duplicates the existing entries, making it a strong fit for the contest's Social-Fi vision.
 
