@@ -1,4 +1,4 @@
-Here's a contest-ready idea that is distinct from the existing submissions while fitting Canopy's Social-Fi theme and leveraging Canopy's plugin architecture.
+
 
 # Canopy Pulse
 
